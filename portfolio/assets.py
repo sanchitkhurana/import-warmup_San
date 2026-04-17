@@ -1,3 +1,5 @@
+
+
 def calculate_portfolio_value(portfolio: dict) -> float:
     total = 0
     for asset in portfolio["assets"]:
